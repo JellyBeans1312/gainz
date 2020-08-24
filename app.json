@@ -1,0 +1,12 @@
+{
+  "name": "gainz",
+  "displayName": "gainz",
+  "expo": {
+    "name": "gainz",
+    "slug": "gainz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
