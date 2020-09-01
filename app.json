@@ -7,6 +7,8 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "An app to help you track progress with your gainz",
+    "githubUrl": "https://github.com/JellyBeans1312/gainz"
   }
 }
